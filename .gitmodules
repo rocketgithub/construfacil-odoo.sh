@@ -14,3 +14,6 @@
 	path = kardex
 	url = https://github.com/rocketgithub/kardex.git
 	branch = 11.0
+[submodule "construfacil"]
+	path = construfacil
+	url = git@github.com:rocketgithub/construfacil.git
