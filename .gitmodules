@@ -10,3 +10,10 @@
 	path = l10n_gt_extra
 	url = https://github.com/rocketgithub/l10n_gt_extra.git
 	branch = 11.0
+[submodule "kardex"]
+	path = kardex
+	url = https://github.com/rocketgithub/kardex.git
+	branch = 11.0
+[submodule "construfacil"]
+	path = construfacil
+	url = git@github.com:rocketgithub/construfacil.git
