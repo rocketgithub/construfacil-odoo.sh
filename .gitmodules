@@ -17,3 +17,7 @@
 [submodule "construfacil"]
 	path = construfacil
 	url = git@github.com:rocketgithub/construfacil.git
+[submodule "importaciones"]
+	path = importaciones
+	url = https://github.com/rocketgithub/importaciones.git
+	branch = 11.0
