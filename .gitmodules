@@ -28,3 +28,6 @@
 	path = pos_gt
 	url = git@github.com:rocketgithub/pos_gt.git
 	branch = 11.0
+[submodule "fel_guatefactura"]
+	path = fel_guatefactura
+	url = https://github.com/rocketgithub/fel_guatefactura.git
