@@ -17,3 +17,14 @@
 [submodule "construfacil"]
 	path = construfacil
 	url = git@github.com:rocketgithub/construfacil.git
+[submodule "importaciones"]
+	path = importaciones
+	url = https://github.com/rocketgithub/importaciones.git
+	branch = 12.0
+[submodule "sesionventas"]
+	path = sesionventas
+	url = https://github.com/rocketgithub/sesionventas.git
+	branch = 12.0
+[submodule "fel_guatefactura"]
+	path = fel_guatefactura
+	url = https://github.com/rocketgithub/fel_guatefactura.git
