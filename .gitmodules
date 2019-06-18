@@ -28,3 +28,6 @@
 [submodule "fel_guatefactura"]
 	path = fel_guatefactura
 	url = https://github.com/rocketgithub/fel_guatefactura.git
+[submodule "ventas_extra"]
+	path = ventas_extra
+	url = https://github.com/rocketgithub/ventas_extra.git
