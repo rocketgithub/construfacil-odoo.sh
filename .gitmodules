@@ -31,3 +31,7 @@
 [submodule "ventas_extra"]
 	path = ventas_extra
 	url = https://github.com/rocketgithub/ventas_extra.git
+[submodule "limite_credito"]
+	path = limite_credito
+	url = git@github.com:rocketgithub/limite_credito.git
+	branch = 12.0
