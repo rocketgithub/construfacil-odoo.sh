@@ -31,7 +31,3 @@
 [submodule "ventas_extra"]
 	path = ventas_extra
 	url = https://github.com/rocketgithub/ventas_extra.git
-[submodule "pos_gt"]
-	path = pos_gt
-	url = https://github.com/rocketgithub/pos_gt.git
-	branch = 11.0
