@@ -35,3 +35,7 @@
 	path = limite_credito
 	url = https://github.com/rocketgithub/limite_credito.git
 	branch = 12.0
+[submodule "pos_gt"]
+	path = pos_gt
+	url = https://github.com/rocketgithub/pos_gt.git
+	branch = 11.0
