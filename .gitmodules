@@ -38,3 +38,6 @@
 	path = pos_gt
 	url = https://github.com/rocketgithub/pos_gt.git
 	branch = 11.0
+[submodule "disable_picking_unlock"]
+	path = disable_picking_unlock
+	url = git@github.com:rocketgithub/disable_picking_unlock.git
