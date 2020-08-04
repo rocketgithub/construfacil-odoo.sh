@@ -41,3 +41,6 @@
 [submodule "disable_picking_unlock"]
 	path = disable_picking_unlock
 	url = git@github.com:rocketgithub/disable_picking_unlock.git
+[submodule "payment_visanet"]
+	path = payment_visanet
+	url = git@github.com:rocketgithub/payment_visanet.git
